@@ -1,0 +1,12 @@
+site_name: HOA Runbook
+nav:
+  - Home: index.md
+  - Getting Started:
+    - HOA Basics: basics.md
+  - Incident Standard Protocol:
+    - Roof Water Intrusion: workflows.md
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
